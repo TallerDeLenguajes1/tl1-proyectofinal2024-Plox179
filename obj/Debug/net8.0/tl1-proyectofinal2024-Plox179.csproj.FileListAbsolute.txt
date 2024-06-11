@@ -1,0 +1,14 @@
+C:\Users\Alumno\Documents\Proyecto-final-tl1-LeonDecimaLeandro\tl1-proyectofinal2024-Plox179\bin\Debug\net8.0\tl1-proyectofinal2024-Plox179.exe
+C:\Users\Alumno\Documents\Proyecto-final-tl1-LeonDecimaLeandro\tl1-proyectofinal2024-Plox179\bin\Debug\net8.0\tl1-proyectofinal2024-Plox179.deps.json
+C:\Users\Alumno\Documents\Proyecto-final-tl1-LeonDecimaLeandro\tl1-proyectofinal2024-Plox179\bin\Debug\net8.0\tl1-proyectofinal2024-Plox179.runtimeconfig.json
+C:\Users\Alumno\Documents\Proyecto-final-tl1-LeonDecimaLeandro\tl1-proyectofinal2024-Plox179\bin\Debug\net8.0\tl1-proyectofinal2024-Plox179.dll
+C:\Users\Alumno\Documents\Proyecto-final-tl1-LeonDecimaLeandro\tl1-proyectofinal2024-Plox179\bin\Debug\net8.0\tl1-proyectofinal2024-Plox179.pdb
+C:\Users\Alumno\Documents\Proyecto-final-tl1-LeonDecimaLeandro\tl1-proyectofinal2024-Plox179\obj\Debug\net8.0\tl1-proyectofinal2024-Plox179.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumno\Documents\Proyecto-final-tl1-LeonDecimaLeandro\tl1-proyectofinal2024-Plox179\obj\Debug\net8.0\tl1-proyectofinal2024-Plox179.AssemblyInfoInputs.cache
+C:\Users\Alumno\Documents\Proyecto-final-tl1-LeonDecimaLeandro\tl1-proyectofinal2024-Plox179\obj\Debug\net8.0\tl1-proyectofinal2024-Plox179.AssemblyInfo.cs
+C:\Users\Alumno\Documents\Proyecto-final-tl1-LeonDecimaLeandro\tl1-proyectofinal2024-Plox179\obj\Debug\net8.0\tl1-proyectofinal2024-Plox179.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Documents\Proyecto-final-tl1-LeonDecimaLeandro\tl1-proyectofinal2024-Plox179\obj\Debug\net8.0\tl1-proyectofinal2024-Plox179.dll
+C:\Users\Alumno\Documents\Proyecto-final-tl1-LeonDecimaLeandro\tl1-proyectofinal2024-Plox179\obj\Debug\net8.0\refint\tl1-proyectofinal2024-Plox179.dll
+C:\Users\Alumno\Documents\Proyecto-final-tl1-LeonDecimaLeandro\tl1-proyectofinal2024-Plox179\obj\Debug\net8.0\tl1-proyectofinal2024-Plox179.pdb
+C:\Users\Alumno\Documents\Proyecto-final-tl1-LeonDecimaLeandro\tl1-proyectofinal2024-Plox179\obj\Debug\net8.0\tl1-proyectofinal2024-Plox179.genruntimeconfig.cache
+C:\Users\Alumno\Documents\Proyecto-final-tl1-LeonDecimaLeandro\tl1-proyectofinal2024-Plox179\obj\Debug\net8.0\ref\tl1-proyectofinal2024-Plox179.dll
