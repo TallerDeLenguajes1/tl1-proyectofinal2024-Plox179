@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("tl1-proyectofinal2024-Plox179")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e41add21c60026cc5fc7df50bdf6fe40ab5ba585")]
 [assembly: System.Reflection.AssemblyProductAttribute("tl1-proyectofinal2024-Plox179")]
 [assembly: System.Reflection.AssemblyTitleAttribute("tl1-proyectofinal2024-Plox179")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

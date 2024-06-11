@@ -1,12 +1,6 @@
-namespace FabricaDePersonaje;
-
-using System.IO.Pipes;
-using Microsoft.VisualBasic;
-using Personaje;
-
 public class FabricaDePersonaje
 {
-    public Personaje CrearPersonaje()
+    public static Personaje CrearPersonaje()
     {
         Random numRand = new Random();
         int dia = numRand.Next(1,32);

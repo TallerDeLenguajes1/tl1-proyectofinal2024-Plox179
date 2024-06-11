@@ -1,5 +1,3 @@
-namespace Personaje;
-
 public class Personaje
 {
     string tipo;
